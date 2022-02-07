@@ -49,7 +49,7 @@
 	</pluginRepositories>
 
 	<modules>
-		<module>org.faktorips.build.config</module>
+		<module>org.faktorips.codequality.config</module>
 		<module>org.faktorips.aggregator</module>
 	</modules>
 
