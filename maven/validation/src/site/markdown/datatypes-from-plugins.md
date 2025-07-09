@@ -57,7 +57,7 @@ If the plugin has been built with Tycho and has the packaging type 'eclipse-plug
             <extension>
                 <groupId>org.eclipse.tycho</groupId>
                 <artifactId>tycho-build</artifactId>
-                <version>${tycho.version}</version>
+                <version>${tycho-version}</version>
             </extension>
         </extensions>
 </build>
